@@ -1,4 +1,4 @@
-23334566863775695
+23339740392930654
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83285,6 +83285,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Panikraster_v2
+Panikraster_05x05
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+30
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -84237,6 +84244,20 @@ Potentiometer vertical vishay
 0
 3
 3
+Projektlabor
+Prolab_Busstecker
+
+
+0
+14
+14
+Projektlabor
+TO-220-5_Vertical_Brolab
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
