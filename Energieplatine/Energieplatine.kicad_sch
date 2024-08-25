@@ -5430,17 +5430,16 @@
 		(uuid 74925c49-a766-40b0-8835-43b7beef483f)
 	)
 	(rectangle
-		(start 15.24 78.74)
-		(end 132.08 133.35)
+		(start 15.24 77.47)
+		(end 118.11 132.08)
 		(stroke
-			(width 0.0508)
+			(width 0)
 			(type dash)
-			(color 146 167 255 1)
 		)
 		(fill
 			(type none)
 		)
-		(uuid 7a6807ce-f279-4192-a3f6-ab47fc7e1ee9)
+		(uuid 9100ee86-e341-4c7d-ae70-44005bdcdcdb)
 	)
 	(rectangle
 		(start 222.25 74.93)
@@ -5508,7 +5507,7 @@
 	)
 	(text "Boost-Converter to charge the battery"
 		(exclude_from_sim no)
-		(at 112.014 135.128 0)
+		(at 99.568 134.112 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6153,7 +6152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 34.29 102.362 90)
 			(effects
 				(font
@@ -7003,7 +7002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 231.902 30.48 90)
 			(effects
 				(font
@@ -7473,7 +7472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 223.012 106.68 90)
 			(effects
 				(font
@@ -8600,7 +8599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 84.582 115.57 90)
 			(effects
 				(font
@@ -8888,7 +8887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 223.012 45.72 90)
 			(effects
 				(font
@@ -9292,7 +9291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 84.582 99.06 90)
 			(effects
 				(font
@@ -9904,7 +9903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 223.012 58.42 90)
 			(effects
 				(font
@@ -10593,7 +10592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 76.962 31.75 90)
 			(effects
 				(font
@@ -10730,7 +10729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 223.012 95.25 90)
 			(effects
 				(font
@@ -10800,7 +10799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 231.902 106.68 90)
 			(effects
 				(font
